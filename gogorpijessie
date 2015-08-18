@@ -1,0 +1,3 @@
+apt-get install sudo usbutils tmux bzip2 make gcc
+wget http://ftp.uk.debian.org/debian/pool/main/w/wireless-tools/wireless-tools_30~pre9-8_armhf.deb ~/Downloads/
+
